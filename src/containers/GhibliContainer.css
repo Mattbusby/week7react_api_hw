@@ -1,0 +1,30 @@
+* {
+    box-sizing:border-box;
+    margin: 0;
+}
+
+.main-container {
+    text-align: center;
+  }
+
+h1 {
+  padding-top: 5%;
+  background-image: url("Coal_sprites.gif");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 162px;
+  color: white;
+  font-family: Ghibli;
+}
+/* ITC Avant Garde Gothic LT Medium */
+.dropdown {
+    background-image: url("undefined - Imgur.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    color: antiquewhite;
+    padding: 5%;
+    font-family: Ghibli;
+}
